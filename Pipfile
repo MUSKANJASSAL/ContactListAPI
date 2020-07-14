@@ -11,6 +11,7 @@ drf-yasg = "*"
 gunicorn = "*"
 psycopg2 = "*"
 django-heroku = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
